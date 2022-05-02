@@ -14,10 +14,10 @@ twitter   https://twitter.com/cenidj    200
 twitch    https://twitch.tv/cenidj      200
 ```
 
-## Usage
+## Usage examples
 
-domain.com/ -> will redirect to https://cesarionivar.com with status 200
-domain.com/twitter -> will redirect to https://twitter.com/cenidj with status 200
+domain.com/ -> will redirect to https://cesarionivar.com with status 200\
+domain.com/twitter -> will redirect to https://twitter.com/cenidj with status 200\
 domain.com/twitch -> will redirect to https://twitch.tv/cenidj with status 200
 
 and so on!!
