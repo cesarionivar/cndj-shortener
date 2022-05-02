@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "linkeding",
+      "destination": "https://linkedin.com/in/cesarionivar"
+    },
+    {
+      "source": "twitch",
+      "destination": "https://twitch.tv/cenidj"
+    }
+  ]
+}
